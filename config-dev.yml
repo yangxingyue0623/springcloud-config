@@ -5,4 +5,4 @@ spring:
     active: dev
 config:
   info:
-    "config.info.version=6" 
+    "config.info66"
